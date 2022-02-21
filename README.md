@@ -17,8 +17,9 @@ const muchirijohn = {
   stack: { 
           Hardware: [STM32, ESP32, AVR, Power Design, Robotics],
           PCB Design: [KiCAD, EasyEDA, Eagle, Altium],
-          Apps: [Node, Visual Studio, Electron]
-  }
+          Software: [Node, Visual Studio, Electron],
+  },
+  Industry: [IoT, Robotics, Energy, Apps, STEM, Open Source],
   challenge: "Am currently learning to create an Inventory app with Electron"
 }
 ```
