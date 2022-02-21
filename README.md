@@ -24,16 +24,9 @@ const muchirijohn = {
 }
 ```
 
-<h2><img width="140px" src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" /></h2>
+<h2>Stats<!--<img width="140px" src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" />--></h2>
 <br>
 <p align="left">
- <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muchirijohn&show_icons=true&theme=radical&count_private=true&custom_title=@muchirijohn"> 
- <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muchirijohn&theme=radical" />
-</p>
-<br>
-<p align="left">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchirijohn&layout=compact&theme=dark&custom_title=Languages" > 
- <img width="48%" src="https://activity-graph.herokuapp.com/graph?username=muchirijohn&theme=redical">-->
   <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=muchirijohn&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true" />     </a><br><br>
   <a href="#" alt=""><img width="370px" src="https://github-readme-stats.vercel.app/api?username=muchirijohn&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
@@ -42,7 +35,7 @@ const muchirijohn = {
   </a><br></br>
 </p>
 
-<h2><img width="140px" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif"</h2>
+<h2>Connect<!--<img width="140px" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif">--></h2>
 <p align="left">
   <a href="https://twitter.com/muchiri15john">
   <img width="96px" src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
