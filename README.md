@@ -20,7 +20,7 @@
             PCB Design: [KiCAD, EasyEDA, Eagle, Altium],
             Software: [Node, Visual Studio, Electron],
     },
-    Industry: [IoT, Robotics, Energy, Apps, STEM, Open Source],
+    Industry: [IoT, Robotics, AI/ML, Energy, Apps, STEM, Open Source],
     challenge: "Am currently learning how to create an Inventory app with Electron"
   }
   ```
