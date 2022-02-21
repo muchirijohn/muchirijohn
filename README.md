@@ -22,9 +22,10 @@ const muchirijohn = {
   challenge: "Am currently learning to create an Inventory app with Electron"
 }
 ```
-  <h2><img width="140px" src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif"/></h2>
+
+<h2><img width="140px" src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" /></h2>
 <br>
-<p align="centre">
+<p align="left">
  <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muchirijohn&show_icons=true&theme=radical&count_private=true&custom_title=@muchirijohn"> 
  <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muchirijohn&theme=radical" />
 </p>
@@ -32,9 +33,12 @@ const muchirijohn = {
 <p align="left">
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchirijohn&layout=compact&theme=dark&custom_title=Languages" > 
  <img width="48%" src="https://activity-graph.herokuapp.com/graph?username=muchirijohn&theme=redical">-->
-  <img src="https://activity-graph.herokuapp.com/graph?username=muchirijohn&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
-  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=muchirijohn&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
-  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=muchirijohn&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /><br>
+  <a href="#">
+    <img src="https://activity-graph.herokuapp.com/graph?username=muchirijohn&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true" />     </a><br><br>
+  <a href="#" alt=""><img width="370px" src="https://github-readme-stats.vercel.app/api?username=muchirijohn&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+  </a>
+  <a href="#" alt=""><img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=muchirijohn&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+  </a><br></br>
 </p>
 
 <h2><img width="140px" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif"</h2>
