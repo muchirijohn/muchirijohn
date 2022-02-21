@@ -1,5 +1,4 @@
-<h2 align="center">
-  <img align="left" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
+<h2 align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Here's+muchiri+john..;Nice+to+meet+you!&center=true&size=30">
 </h2>
 <p align="left">
