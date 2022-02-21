@@ -36,7 +36,7 @@ const muchirijohn = {
 </p>
 
 <h2>Connect<!--<img width="140px" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif">--></h2>
-<p align="left">
+<p align="centre">
   <a href="https://twitter.com/muchiri15john">
   <img width="96px" src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>
