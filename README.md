@@ -21,7 +21,7 @@
             Software: [Node, Visual Studio, Electron],
     },
     Industry: [IoT, Robotics, AI/ML, Energy, Apps, STEM, Open Source],
-    challenge: "Am currently learning how to create an Inventory app with Electron"
+    challenge: "currently creating an Electronics Parts Inventory app with NodeJs+Electron+Semantics UI+SQlite"
   }
   ```
   <br>
