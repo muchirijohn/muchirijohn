@@ -1,5 +1,5 @@
 <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋+Here's+muchiri+john..;Nice+to+meet+you!&center=false&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;Here's+muchiri+john..;Nice+to+meet+you!&center=false&size=30">
 </h2>
 <p align="left">
   <br>:dart: I Make, Hack n Code
