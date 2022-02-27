@@ -21,7 +21,7 @@
             Software: [Node, Visual Studio, Electron],
     },
     Industry: [IoT, Robotics, AI/ML, Energy, Apps, STEM, Open Source],
-    priority: "Teaching my daughter how to code",
+    priority: "Teaching my daughter how to Code n Make",
     challenge: "Currently creating an Electronics Parts Inventory app with NodeJs+Electron+Semantics UI+SQlite"
   }
   ```
