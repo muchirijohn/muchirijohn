@@ -15,7 +15,7 @@
   const muchirijohn = {
     pronouns: "He" | "Him",
     code: [C/C++, Python, Javascript, C#, Go, Typescript, CSS, HTML],
-    stack: { 
+    make: { 
             Hardware: [STM32, ESP32, AVR, Power Design, Robotics],
             PCB Design: [KiCAD, EasyEDA, Eagle, Altium],
             Software: [Node, Visual Studio, Electron],
