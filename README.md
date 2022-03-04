@@ -27,6 +27,7 @@
   ```
   <br>
 </p>
+<!-->
 <h2>Stats</h2>
 <br>
 <p align="left">
@@ -34,7 +35,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muchirijohn&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muchirijohn&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /><br></br>
 </p>
-
+-->
+<!--
 <h2>Connect</h2>
 <p align="left">
   <a href="https://twitter.com/muchiri15john">
@@ -42,7 +44,8 @@
   </a>
   <a href="https://linkedin.com/in/muchirijohn">
   <img width="96px" src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px" />
-  </a><!--
+  </a>
+  --><!--
   <a href="https://instagram.com/muchirijohn">
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>-->
