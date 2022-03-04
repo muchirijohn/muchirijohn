@@ -5,7 +5,7 @@
   <br>:dart: I Make, Hack n Code
   <br>:100: My life is about Hardware/Software Design and Open Source
   <br>:revolving_hearts: Interested in Energy Sustainability
-  <br>:pushpin: Working on STEM with <a href="https://twitter.com/ngoirimercy">@ngoirimercy</a>
+  <br>:pushpin: Working on STEM with <a href="https://twitter.com/ngoirimercy" target="_blank">@ngoirimercy</a>
   <br>:sunglasses: I love to cook
 </p>
 <br>
