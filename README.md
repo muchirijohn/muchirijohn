@@ -27,7 +27,7 @@
   ```
   <br>
 </p>
-<!-->
+<!--
 <h2>Stats</h2>
 <br>
 <p align="left">
@@ -45,7 +45,8 @@
   <a href="https://linkedin.com/in/muchirijohn">
   <img width="96px" src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px" />
   </a>
-  --><!--
+  -->
+  <!--
   <a href="https://instagram.com/muchirijohn">
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>-->
