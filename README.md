@@ -16,9 +16,9 @@
     pronouns: "He" | "Him",
     code: [C/C++, Python, Javascript, C#, Go, Typescript, CSS, HTML],
     make: { 
-            Hardware: [STM32, ESP32, AVR, Power Design, Robotics],
+            Hardware: [STM32, ESP32, AVR, ARM, FPGA, Robotics, Power Design],
             PCB Design: [KiCAD, EasyEDA, Eagle, Altium],
-            Software: [Node, Visual Studio, Electron],
+            Software: [STM32 Cube, Visual Studio, AVR Studio, Dev Cpp],
     },
     Industry: [IoT, Robotics, AI/ML, Energy, Apps, STEM, Open Source],
     priority: "Teaching my daughter how to Code n Make",
