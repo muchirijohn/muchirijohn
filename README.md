@@ -43,6 +43,8 @@ List of projects I ⚙️ with ❤️
 
 | Name | Category | Description | Links |
 | --- | :---: | --- | --- |
+| <a href="https://github.com/muchirijohn"><b>Portfolio</b></a> | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() | 🧙‍♂️ My personal website | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://github.com/muchirijohn)  </td></tr></table> |
+| <a href="https://github.com/muchirijohn/inventory"><b>Inventory Management</b></a> | [![](https://img.shields.io/badge/🔧-%20Tools-informational?style=flat&logoColor=white&color=9b59b6)]() | 📦 Simple and easy way to manage inventory for electronics components| <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/muchirijohn/inventory) </td></tr></table> |
 
 
 ## 💻 Most used Languages 
