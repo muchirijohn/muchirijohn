@@ -36,7 +36,16 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muchirijohn&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /><br></br>
 </p>
 -->
-Most used Languages 
+
+# 🤖 **Projects**
+
+List of projects I ⚙️ with ❤️
+
+| Name | Category | Description | Links |
+| --- | :---: | --- | --- |
+
+
+# 💻 Most used Languages 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchirijohn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
