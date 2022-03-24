@@ -49,7 +49,7 @@ List of projects I ⚙️ with ❤️
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchirijohn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Connect</h2>
+## 🕸️ Connect
 <p align="left">
   <a href="https://twitter.com/muchiri15john" style="margin-right: 10px">
   <img width="48px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/twitter.png" alt="Twitter" style="vertical-align:top; margin:8px" />
