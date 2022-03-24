@@ -37,7 +37,7 @@
 </p>
 -->
 
-# 🤖 **Projects**
+## 🤖 **Projects**
 
 List of projects I ⚙️ with ❤️
 
@@ -45,7 +45,7 @@ List of projects I ⚙️ with ❤️
 | --- | :---: | --- | --- |
 
 
-# 💻 Most used Languages 
+## 💻 Most used Languages 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchirijohn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
