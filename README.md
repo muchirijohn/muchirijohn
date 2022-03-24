@@ -43,7 +43,7 @@ Most used Languages
 <h2>Connect</h2>
 <p align="left">
   <a href="https://twitter.com/muchiri15john">
-  <img width="48px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/twitter.png" alt="Twitter" style="vertical-align:top; margin:4px" />
+  <img width="48px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/twitter.png" alt="Twitter" style="vertical-align:top; margin:4px;max-width:24px" />
   </a>
   <a href="https://linkedin.com/in/muchirijohn">
   <img width="48px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/linkedin.png" alt="Linkedin" style="vertical-align:top; margin:4px" />
