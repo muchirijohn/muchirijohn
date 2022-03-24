@@ -48,11 +48,11 @@ List of projects I ⚙️ with ❤️
 | <a href="https://github.com/warefab/Konnect-STM32-Sigfox"><b>STM32-Sigfox</b></a> | [![](https://img.shields.io/badge/🤖-%20IoT-informational?style=flat&logoColor=white&color=03a9fc)]() | STM32-Sigfox development board with inbuilt sensors| <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/warefab/Konnect-STM32-Sigfox) </td></tr></table> |
 | <a href="https://github.com/warefab/Konnect-ESP32-Sigfox"><b>ESP32-Sigfox</b></a> | [![](https://img.shields.io/badge/🤖-%20IoT-informational?style=flat&logoColor=white&color=03a9fc)]() | ESP32-Sigfox development board with inbuilt sensors| <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/warefab/Konnect-STM32-Sigfox) </td></tr></table> |
 
-
+<!--
 ## 💻 Most used Languages 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchirijohn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ## 🕸️ Connect
 <p align="left">
   <a href="https://twitter.com/muchiri15john" style="margin-right: 10px">
