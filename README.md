@@ -43,17 +43,17 @@ Most used Languages
 <h2>Connect</h2>
 <p align="left">
   <a href="https://twitter.com/muchiri15john">
-  <img max-width="36px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/twitter.png" alt="Twitter" style="vertical-align:top; margin:4px" />
+  <img width="48px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/twitter.png" alt="Twitter" style="vertical-align:top; margin:4px" />
   </a>
   <a href="https://linkedin.com/in/muchirijohn">
-  <img max-width="36px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/linkedin.png" alt="Linkedin" style="vertical-align:top; margin:4px" />
+  <img width="48px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/linkedin.png" alt="Linkedin" style="vertical-align:top; margin:4px" />
   </a>
   <!--
   <a href="https://instagram.com/muchirijohn">
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>-->
   <a href="https://t.me/+P3lNMS-nthRO_TNv">
-  <img max-width="36px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/telegram.png" alt="GMail" style="vertical-align:top; margin:4px" />
+  <img width="48px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/telegram.png" alt="GMail" style="vertical-align:top; margin:4px" />
   </a>
 </p>
 
