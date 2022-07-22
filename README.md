@@ -4,7 +4,7 @@
 <p align="left">
   <br>:dart: I Make, Hack n Code
   <br>:100: My life is about Hardware/Software Design and Open Source
-  <br>:revolving_hearts: Interested in Energy Sustainability
+  <br>:revolving_hearts: Interested in STEM and Energy Sustainability
   <br>:pushpin: Working on STEM with <a href="https://twitter.com/ngoirimercy" target="_blank">@ngoirimercy</a>
   <br>:sunglasses: I love to cook
 </p>
@@ -43,7 +43,7 @@ List of projects I ⚙️ with ❤️
 
 | Name | Category | Description | Links |
 | --- | :---: | --- | --- |
-| <a href="https://github.com/muchirijohn"><b>Portfolio</b></a> | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() | My personal website | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://github.com/muchirijohn)  </td></tr></table> |
+| <a href="https://github.com/muchirijohn"><b>Portfolio</b></a> | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() | Bin for most of my Hacks and Makes | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://github.com/phinalabs)  </td></tr></table> |
 | <a href="https://github.com/muchirijohn/inventory"><b>Inventory Desktop App</b></a> | [![](https://img.shields.io/badge/📦-%20Tools-informational?style=flat&logoColor=white&color=9b59b6)]() |  Simple and easy way to manage inventory for electronics components made with electron| <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/muchirijohn/inventory) </td></tr></table> |
 | <a href="https://github.com/warefab/Konnect-STM32-Sigfox"><b>STM32-Sigfox</b></a> | [![](https://img.shields.io/badge/🤖-%20IoT-informational?style=flat&logoColor=white&color=03a9fc)]() | STM32-Sigfox development board with inbuilt sensors| <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/warefab/Konnect-STM32-Sigfox) </td></tr></table> |
 | <a href="https://github.com/warefab/Konnect-ESP32-Sigfox"><b>ESP32-Sigfox</b></a> | [![](https://img.shields.io/badge/🤖-%20IoT-informational?style=flat&logoColor=white&color=03a9fc)]() | ESP32-Sigfox development board with inbuilt sensors| <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/warefab/Konnect-ESP32-Sigfox) </td></tr></table> |
