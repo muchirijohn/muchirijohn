@@ -5,8 +5,6 @@
   <br>:dart: I Make, Hack n Code
   <br>:100: My life is about Hardware/Software Design and Open Source
   <br>:revolving_hearts: Interested in STEM and Energy Sustainability
-  <br>:pushpin: Working on STEM with <a href="https://twitter.com/ngoirimercy" target="_blank">@ngoirimercy</a>
-  <br>:sunglasses: Teaching my daughter how to code
 </p>
 <br>
 <p>
