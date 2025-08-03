@@ -59,8 +59,8 @@ List of projects I ⚙️ with ❤️
   <a href="https://instagram.com/muchirijohn">
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>-->
-  <a href="https://t.me/+P3lNMS-nthRO_TNv" style="margin-right: 10px">
-  <img width="48px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/telegram.png" alt="GMail" style="vertical-align:top; margin:8px" />
+  <a href="https:makestack.phinalabs.com" style="margin-right: 10px">
+  <img width="48px" src="https://github.com/muchirijohn/muchirijohn/blob/main/social/drill.png" alt="GMail" style="vertical-align:top; margin:8px" />
   </a>
 </p>
 
