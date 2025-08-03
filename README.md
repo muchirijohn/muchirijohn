@@ -3,8 +3,7 @@
 </h2>
 <p align="left">
   <br>:dart: I Make, Hack n Code
-  <br>:100: My life is about Hardware/Software Design and Open Source
-  <br>:revolving_hearts: Interested in STEM and Energy Sustainability
+  <br>:100: Making <a href="https://github.com/phinalabs"><b>@phinalabs</b></a> and <a href="https://makestack.phinalabs.com"><b>@MakeStack</b></a>
 </p>
 <br>
 <p>
@@ -12,15 +11,12 @@
   ```javascript
   const muchirijohn = {
     pronouns: "He" | "Him",
-    code: [C/C++, Python, Javascript, C#, Go, Typescript, CSS, HTML],
-    make: { 
-            Hardware: [STM32, ESP32, AVR, ARM, FPGA, Robotics, Power Design],
-            PCB Design: [KiCAD, EasyEDA, Eagle, Altium],
-            Software: [STM32 Cube, Visual Studio, AVR Studio, Dev Cpp],
-    },
+    code: [C/C++, Python, Rust, C#, Go, Web],
+    make: [Firmware, Hardware, PCB Design, Apps]
     Industry: [IoT, Robotics, AI/ML, Energy, Apps, STEM, Open Source],
-    priority: "Teaching my daughter how to Code n Make",
-    challenge: "Currently creating an Electronics Parts Inventory app with NodeJs+Electron+Semantics UI+SQlite"
+    priority: "Making @Phinalabs",
+    challenge: "Currently creating an Electronics Parts Inventory app with NodeJs+Electron+Semantics UI+SQlite",
+    Fun: "Open Source projects @MakeStack"
   }
   ```
   <br>
